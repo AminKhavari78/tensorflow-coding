@@ -3,3 +3,4 @@ Core components of neural networks  An introduction to Keras  Setting up a
 yo can see and learn basic and some professional part of kears tensorflow framework
 
 ** Imdb dataset classification with keras and plotting training and validation loss
+** Reuters dataset classification and use matplotlib 
